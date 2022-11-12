@@ -1,6 +1,6 @@
 {
-  "name": "dark-matter",
-  "displayName": "dark matter",
+  "name": "darkmatter-purple",
+  "displayName": "dark matter purple",
   "description": "purple theme dark matter for vscode.",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "dark matter ",
+        "label": "dark matter purple",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark matter -color-theme.json"
+        "path": "./themes/dark matter purple-color-theme.json"
       }
     ]
   },
@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aobr95/DarkMatter-extension-vscode"
+    "url": "https://github.com/aobr95/DarkMatterPurple-extension-vscode"
   },
   "bugs": {
-    "url": "https://github.com/aobr95/DarkMatter-extension-vscode/issues",
+    "url": "https://github.com/aobr95/DarkMatterPurple-extension-vscode/issues",
     "email": "aorlan.95@gmail.com"
   },
-  "publisher": "dark-matter"
+  "publisher": "darkmatter-purple"
 }
